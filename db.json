@@ -2,12 +2,12 @@
   "spiceblends": [
     {
       "id": 1,
-      "title": "Pumpkin Spice",
+      "title": "Sushi",
       "image": "./assets/spices/pumpkinspicelatte.jpg"
     },
     {
       "id": 2,
-      "title": "Za'atar",
+      "title": "Seth told me how to pronounce this but i didn't listen",
       "image": "./assets/spices/zaatar.jpg"
     },
     {
@@ -106,6 +106,21 @@
       "name": "Pepper",
       "spiceblendId": 3,
       "id": 17
+    },
+    {
+      "name": "Fishhhh",
+      "spiceblendId": 1,
+      "id": 18
+    },
+    {
+      "name": "it works!!!",
+      "spiceblendId": 2,
+      "id": 19
+    },
+    {
+      "name": "cucumber",
+      "spiceblendId": 1,
+      "id": 20
     }
   ]
 }
